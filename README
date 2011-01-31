@@ -1,0 +1,4 @@
+=AJAX Chat
+
+This is a simple ajax chat, which uses rails 3 and a DB for storing the messages. It is intended to be used on heroku.
+
